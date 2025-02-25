@@ -1,4 +1,4 @@
-# Employee Training Knowledge Base Platform
+# Employee Training And Knowledge Base Platform
 
 The **Employee Training Knowledge Base Platform** is a web-based application designed to streamline and manage employee training programs within an organization. It serves as a centralized repository for training materials, schedules, and progress tracking, facilitating efficient knowledge dissemination and skill development.
 
